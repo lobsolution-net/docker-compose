@@ -8,7 +8,8 @@ I used all open source technologies with free licence as this is a free version.
 For an Enterprise/Custom version, buying licences may be required.
 
 If you want to try it, the demo of the latest version is at: http://demo.lobsolution.net
-This user is read-only
+
+This user is read-only.
 
 Username:
 demo@lobsolution.net
