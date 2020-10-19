@@ -1,8 +1,17 @@
+# lobsolution.net
+## Inventory Management Solution
+
 I started this project because I wanted to apply all my 20+ years of software development in designing the best product I could.
 Everytime I learn a new technology, which can be useful for this, I just use it, even if I have to rewrite a lot of code.
 Right now the source code is still not open, but it will probably be soon.
+I used all open source technologies with free licence as this is a free version.
+For an Enterprise/Custom version, buying licences may be required.
+
+If you want to try it, the demo of the latest version is at: http://demo.lobsolution.net
 
 I hope you enjoy it!
+
+This docker compose file is to spin-up the entire infrastructure.
 
 # Prerequisite
 - Docker installed (https://www.docker.com/get-started)
@@ -19,10 +28,12 @@ As this is a free version, the HTTPS is not enabled.
 
 
 # DESIGN
-- DDD
+- DDD (Domain Driven Development)
 - Microservices
 - Event Driven
 - State Machine
+- SSO (Single Sign On)
+- OAuth2/OpenId Connect
 
 # TECHNOLOGIES
 - Frontend
