@@ -1,8 +1,13 @@
+I started this project because I wanted to apply all my 20+ years of software development in designing the best product I could.
+Everytime I learn a new technology, which can be useful for this, I just use it, even if I have to rewrite a lot of code.
+
+I hope you enjoy it!
+
 # DESIGN
 - DDD
 - Microservices
 - Event Driven
-
+- State Machine
 
 # TECHNOLOGIES
 - Frontend
