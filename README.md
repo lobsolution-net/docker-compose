@@ -1,7 +1,22 @@
 I started this project because I wanted to apply all my 20+ years of software development in designing the best product I could.
 Everytime I learn a new technology, which can be useful for this, I just use it, even if I have to rewrite a lot of code.
+Right now the source code is still not open, but it will probably be soon.
 
 I hope you enjoy it!
+
+# Prerequisite
+- Docker installed (https://www.docker.com/get-started)
+- At least 8GB of RAM assigned to Docker
+
+# Usage
+- Download the docker-compose.yml file
+- Open a Powershell/Bash shell and point to the directory where you downloaded the file
+- type: 
+    docker-compose up -d
+- open the browser and go to http://localhost:5030
+
+As this is a free version, the HTTPS is not enabled. 
+
 
 # DESIGN
 - DDD
